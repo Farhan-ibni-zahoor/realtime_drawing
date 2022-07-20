@@ -1,0 +1,44 @@
+body{
+    background-color: navajowhite;
+}
+.heading {
+    font-size: 25px;
+    color: red;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px,5px,5px,grey;
+    height: 30%;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+    height: 20px;
+    background-color: aqua;
+}
+canvas {
+    border: 5px, solid grey;
+    box-shadow: 5px,5px,5px,lightcyan;
+    border-radius:  20px; 
+}
+
+.copy-right-footer{
+    position: fixed;
+    color: red;
+    margin: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: gold;
+    line-height: 3;
+    text-align: center;
+}
+.name {
+    font-size: 25px;
+    color: black;
+    background-color:aquamarine ;
+    width: 20%;
+
+}
+
+
+
